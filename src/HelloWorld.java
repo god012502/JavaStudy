@@ -5,6 +5,7 @@ public class HelloWorld {
 		
 		System.out.println("이클립스 첫 실행");
 		System.out.println("Hello Eclipse");
+		System.out.println("Github연동완료");
 		//sysout ctrl+스페이스 바 - println 자동완성
 		//ctrl+shift+[+,-] 폰트 크기 확대, 축소
 		//라인복사 - ctrl+alt+방향키
