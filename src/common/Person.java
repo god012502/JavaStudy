@@ -28,4 +28,8 @@ public class Person {
 	public String toString() {
 		return String.format("이름:%s, 나이:%d", name, age);
 	}
+	public int hashCode1() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }
